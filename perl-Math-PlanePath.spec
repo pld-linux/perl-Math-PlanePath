@@ -4,7 +4,6 @@
 #
 %define		pdir	Math
 %define		pnam	PlanePath
-%include	/usr/lib/rpm/macros.perl
 Summary:	Points on a path through the 2-D plane
 Name:		perl-Math-PlanePath
 Version:	119
