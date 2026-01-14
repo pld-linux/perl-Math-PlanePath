@@ -7,7 +7,7 @@
 Summary:	Points on a path through the 2-D plane
 Name:		perl-Math-PlanePath
 Version:	119
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Math/%{pdir}-%{pnam}-%{version}.tar.gz
